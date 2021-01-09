@@ -1,25 +1,23 @@
 ### Hi there 👋
 
-**Glad to see you here!** :star_struck: <br>
+**Glad to see you here!** :star_struck:
+
 #### I'm a Coder, Designer and a Musician !!! <br>
 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?tab=repositories) represent my journey :running_man: 
-
 <br>
 
 - 🔭 I’m currently working on My Personal Website.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on OpenSourceProjects
 - 📫 How to reach me: [https://nihal-priyadarshi.github.io/My_Links/](https://nihal-priyadarshi.github.io/My_Links/)
-
 <br>
 
 ### Connect With Me
 [<img align="left" alt="NIHAL | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NIHAL | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="NIHAL | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br>
 
 ### Languages and Tools:
@@ -47,15 +45,6 @@ The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?t
 	<a href="https://instagram.com/nihal_priyadarshi?igshid=1sdgxdfcf7ksq"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 	<a href="https://twitter.com/nihal08121999"><img src="https://img.shields.io/twitter/follow/nihal08121999?label=Follow&style=social" alt="Twitter"></a>
 </p>
-
-**********************************************************************************************************************
-**********************************************************************************************************************
-**********************************************************************************************************************
-*********************************************************************
-**********************************************************************
-************************************************************
-**************************************************************
-********************************************************
 
 [twitter]: https://twitter.com/nihal08121999
 [instagram]: https://instagram.com/nihal_priyadarshi?igshid=1sdgxdfcf7ksq
