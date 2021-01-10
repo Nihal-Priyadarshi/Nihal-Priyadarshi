@@ -35,7 +35,7 @@ The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?t
 <!-- <p ><img  src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true" alt="Nihal-Priyadarshi" /></p>
 <br> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Priyadarshi&layout=compact&theme=radical) <p><img src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true&theme=radical" alt="Nihal-Priyadarshi" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Priyadarshi&layout=compact&theme=radical) <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true&theme=radical" alt="Nihal-Priyadarshi" />
 
 <br><br>
 <p align="center"> Let's have a chat on </p> 
