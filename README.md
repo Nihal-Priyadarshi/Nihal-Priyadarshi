@@ -5,13 +5,14 @@
 #### I'm a Coder, Designer and a Musician !!! <br>
 
 I love to learn and contribute in any and every possible way. 
-The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?tab=repositories) represent my journey :running_man: 
+The green dots on my [**GitHub** profile]() represent my journey :running_man: 
 <br>
 
 - 🔭 I’m currently working on My Personal Website.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on OpenSourceProjects
 - 📫 How to reach me: [https://nihal-priyadarshi.github.io/My_Links/](https://nihal-priyadarshi.github.io/My_Links/)
+- ⏩ My Projects: 
 <br>
 
 ### Connect With Me
