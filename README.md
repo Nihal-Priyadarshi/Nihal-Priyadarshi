@@ -12,7 +12,6 @@ The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?t
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on OpenSourceProjects
 - 📫 How to reach me: []()
-- ⏩ My Projects: 
 <br>
 
 ### Connect With Me
