@@ -6,6 +6,10 @@
 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?tab=repositories) represent my journey :running_man: 
+<br><br/>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Nihal-Priyadarshi) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nihal-Priyadarshi.visitor-badge)](https://github.com/Nihal-Priyadarshi) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Nihal-Priyadarshi)
+
 <br>
 
 - 🔭 I’m currently working on My Personal Website.
@@ -41,10 +45,18 @@ The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?t
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
 	<a href="https://github.com/Nihal-Priyadarshi"><img src="https://img.shields.io/github/followers/Nihal-Priyadarshi.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://Nihal-Priyadarshi.github.io/Portfolio"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white&color=Black" alt="website"></a>
+	<a href="https://www.linkedin.com/in/nihal-priyadarshi-994509208/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.facebook.com/nihal.priyadarshi.1999"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 	<a href="https://instagram.com/nihal_priyadarshi?igshid=1sdgxdfcf7ksq"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 	<a href="https://twitter.com/nihal08121999"><img src="https://img.shields.io/twitter/follow/nihal08121999?label=Follow&style=social" alt="Twitter"></a>
 </p>
+
+<br>
+<p align="center">
+<a href="https://github.com/Nihal-Priyadarshi"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
+</p>
+<br>
 
 [twitter]: https://twitter.com/nihal08121999
 [instagram]: https://instagram.com/nihal_priyadarshi?igshid=1sdgxdfcf7ksq
