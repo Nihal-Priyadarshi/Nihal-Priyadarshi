@@ -18,6 +18,9 @@ The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?t
 - 📫 How to reach me: [https://nihal-priyadarshi.github.io/Portfolio/](https://nihal-priyadarshi.github.io/Portfolio/)
 <br>
 
+<p align="left"> <a href="https://twitter.com/nihal08121999?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/nihal08121999?s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/nihal08121999?s=09" /></a> </p>
+<br>
+
 ### Connect With Me
 [<img align="left" alt="NIHAL | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NIHAL | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -39,7 +42,8 @@ The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?t
 <!-- <p ><img  src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true" alt="Nihal-Priyadarshi" /></p>
 <br> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Priyadarshi&layout=compact&theme=radical) <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true&theme=radical" alt="Nihal-Priyadarshi" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Priyadarshi&layout=compact&theme=radical) <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true&theme=radical" alt="Nihal-Priyadarshi" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihal-Priyadarshi&" alt="Nihal-Priyadarshi" />
+
 
 <br><br>
 <p align="center"> Let's have a chat on </p> 
