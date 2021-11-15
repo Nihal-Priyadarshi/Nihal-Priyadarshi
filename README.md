@@ -48,7 +48,28 @@ The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?t
 <!-- <p ><img  src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true" alt="Nihal-Priyadarshi" /></p>
 <br> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Priyadarshi&layout=compact&theme=radical) <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true&theme=radical" alt="Nihal-Priyadarshi" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihal-Priyadarshi&layout=compact&theme=radical" alt="Nihal-Priyadarshi" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Priyadarshi&layout=compact&theme=radical) <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true&theme=radical" alt="Nihal-Priyadarshi" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihal-Priyadarshi&layout=compact&theme=radical" alt="Nihal-Priyadarshi" /> 
+
+<!--
+<img  src="https://activity-graph.herokuapp.com/graph?username=Nihal-Priyadarshi&layout=compact&theme=radical&bg_color=#000000&color=#FF69B4&line=4c8ed9&point=00000000&area=true&hide_border=false" alt="Nihal-Priyadarshi" />
+-->
+
+
+
+
+<!--
+
+| Project | Issues | Pull Requests | Forks | 
+|:--|:--|:--|:--|
+| [**links-list**](https://github.com/flyingsonu122/links-list) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/links-list?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/links-list/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/links-list?style=social&logo=github)](https://github.com/flyingsonu122/links-list/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/links-list?style=flat-square&logo=git)](https://github.com/flyingsonu122/links-list/network) |
+| [**JSON**](https://github.com/flyingsonu122/JSON) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/JSON/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/JSON?style=social&logo=github)](https://github.com/flyingsonu122/JSON/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/JSON?style=flat-square&logo=git)](https://github.com/flyingsonu122/JSON/network) |
+| [**get_free_domain**](https://github.com/singlebucks/get_free_domain) | [![GitHub issues](https://img.shields.io/github/issues/singlebucks/get_free_domain?color=red&logo=github&style=flat-square)](https://github.com/singlebucks/get_free_domain/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/singlebucks/get_free_domain?style=social&logo=github)](https://github.com/singlebucks/get_free_domain/pulls) | [![GitHub forks](https://img.shields.io/github/forks/singlebucks/get_free_domain?style=flat-square&logo=git)](https://github.com/singlebucks/get_free_domain/network) |
+
+-->
+
+
+
+
 
 
 <br><br>
