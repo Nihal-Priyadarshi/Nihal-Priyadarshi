@@ -48,11 +48,8 @@ The green dots on my [**GitHub** profile](https://github.com/Nihal-Priyadarshi?t
 <!-- <p ><img  src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true" alt="Nihal-Priyadarshi" /></p>
 <br> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Priyadarshi&layout=compact&theme=radical) <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true&theme=radical" alt="Nihal-Priyadarshi" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihal-Priyadarshi&layout=compact&theme=radical" alt="Nihal-Priyadarshi" /> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Priyadarshi&layout=compact&theme=radical) <img src="https://github-readme-stats.vercel.app/api?username=Nihal-Priyadarshi&show_icons=true&theme=radical" alt="Nihal-Priyadarshi" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihal-Priyadarshi&layout=compact&theme=radical" alt="Nihal-Priyadarshi" /> <img  src="https://activity-graph.herokuapp.com/graph?username=Nihal-Priyadarshi&layout=compact&theme=radical&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=false" alt="Nihal-Priyadarshi" />
 
-<!--
-<img  src="https://activity-graph.herokuapp.com/graph?username=Nihal-Priyadarshi&layout=compact&theme=radical&bg_color=#000000&color=#FF69B4&line=4c8ed9&point=00000000&area=true&hide_border=false" alt="Nihal-Priyadarshi" />
--->
 
 
 
